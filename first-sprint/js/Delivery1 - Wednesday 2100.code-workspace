@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../utils.js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Delivery1 - Wednesday 2100"
+	}
+}
